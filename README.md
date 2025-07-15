@@ -27,7 +27,7 @@
 ---
 
 ## 📂 Projetos em destaque
-- [**EPlay**]([https://github.com/devBordin0016/eplay_games]):
+- [**EPlay**](https://github.com/devBordin0016/eplay_games):
 - [**BookStore**](https://github.com/devBordin0016/bookstore):
 - [**E-Commerce Project**](https://github.com/devBordin0016/ecommerce_project):
 - [**Estudo Python Avançado**](https://github.com/devBordin0016/estudo_python_avancado):
