@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>Olá, eu sou **Fernando Bordin** 👋</h1>
-  <p>Programador Full‑Stack com foco em **Python, Django, DRF e React**</p>
-  <img src="https://komarev.com/ghpvc/?username=devBordin0016&color=blue" alt="Profile views"/>
+  <h1>Olá, eu sou Fernando Bordin 👋</h1>
+  <p>Programador Full‑Stack com foco em Python, Django, DRF e React</p>
 </div>
 
 ---
