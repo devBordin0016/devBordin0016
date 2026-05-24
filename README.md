@@ -1,8 +1,8 @@
 # Olá, eu sou o Fernando Bordin 👋
 
-**Desenvolvedor Backend** com 4 anos de experiência em sistemas SaaS enterprise, APIs fiscais e integrações de pagamento. Atuo com PHP e MySQL no dia a dia profissional, e desenvolvo projetos próprios com TypeScript, Python e Supabase.
+**Desenvolvedor Backend** com 4 anos de experiência em sistemas SaaS enterprise, APIs fiscais e integrações de pagamento. Atuo com PHP e MySQL no dia a dia profissional, administro servidores Linux e utilizo AWS no ambiente empresarial. Desenvolvo projetos próprios com TypeScript, Supabase e Vercel, com deploy contínuo via GitHub.
 
-Dois projetos em produção. Código versionado. Deploy automatizado.
+Dois projetos em produção. Interfaces responsivas. Código versionado.
 
 ---
 
@@ -21,22 +21,27 @@ Dois projetos em produção. Código versionado. Deploy automatizado.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Frontend**
+**Frontend & Responsividade**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Frameworks**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Infra & DevOps**
+**Versionamento**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Infra & Cloud**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -59,9 +64,10 @@ Plataforma de e-commerce com sistema de pedidos, checkout e painel administrativ
 - Checkout com **Mercado Pago** (PIX, cartão de crédito e boleto)
 - Cálculo de frete e emissão de etiquetas via **API SuperFrete**
 - Sistema de autenticação, cadastro de usuários e e-mails transacionais
+- Interfaces responsivas com HTML, CSS e Bootstrap
 - Hospedagem na **Hostinger** com banco **MySQL**
 
-`PHP` `JavaScript` `MySQL` `Mercado Pago API` `SuperFrete API`
+`PHP` `JavaScript` `MySQL` `Mercado Pago API` `SuperFrete API` `Bootstrap`
 
 ---
 
@@ -73,7 +79,7 @@ Plataforma desenvolvida do zero, de forma independente — frontend, backend, ba
 - Pagamentos com split automático via **Pagar.me** (PIX, cartão e boleto)
 - Assinaturas de planos com lógica de divisão de receita
 - E-mails transacionais via **Resend**
-- Deploy contínuo: push no GitHub → produção na **Vercel** automaticamente
+- Deploy contínuo: push no **GitHub** → produção na **Vercel** automaticamente (CI/CD)
 
 `TypeScript` `Supabase` `PostgreSQL` `Pagar.me API` `Resend` `Vercel`
 
@@ -87,9 +93,12 @@ Plataforma desenvolvida do zero, de forma independente — frontend, backend, ba
 
 - Desenvolvimento de módulos fiscais: **NFCe, NFSe, CTe, MDFe** — ciclo completo de emissão, devolução e exportação de XML
 - Integração via diretório compartilhado para transmissão automática de eventos fiscais a sistemas de parceiros
-- Gestão autônoma do banco de dados MySQL: análise de fluxos, correção de inconsistências e parametrização
-- Absorção de demandas que antes chegavam ao dev sênior — contribuindo para o crescimento da equipe de **2 para 6 devs** e captação de **3 novos clientes enterprise**
-- Participação na migração de emissão fiscal de provedores terceiros para portal próprio, **eliminando custo mensal recorrente**
+- Gestão autônoma do banco de dados **MySQL**: análise de fluxos, correção de inconsistências e parametrização
+- Administração de servidores **Linux**: acesso remoto, gerenciamento de arquivos e monitoramento de processos
+- Uso de **AWS** no suporte à infraestrutura dos sistemas enterprise
+- Versionamento com **Git e GitHub** no ambiente de produção
+- Crescimento da equipe de **2 para 6 devs** e captação de **3 novos clientes enterprise**
+- Participação na migração de emissão fiscal para portal próprio — **eliminando custo mensal recorrente**
 
 ---
 
